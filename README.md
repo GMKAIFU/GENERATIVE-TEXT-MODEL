@@ -78,7 +78,7 @@ Overall, this project effectively combines the cutting-edge capabilities of GPT-
 
 ----text
 
-├── generative_text_gpt2.ipynb   # Jupyter Notebook with complete code and outputs
+├── filename.ipynb   # Jupyter Notebook with complete code and outputs
 
 ├── README.md                    # Project Documentation
 
