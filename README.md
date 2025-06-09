@@ -77,8 +77,11 @@ Overall, this project effectively combines the cutting-edge capabilities of GPT-
 ## 📂 FILE STRUCTURE
 
 ----text
+
 ├── generative_text_gpt2.ipynb   # Jupyter Notebook with complete code and outputs
+
 ├── README.md                    # Project Documentation
+
 └── requirements.txt             # Optional file for dependency management
 
 ## OUTPUTS
